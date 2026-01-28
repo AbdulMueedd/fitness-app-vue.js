@@ -1,6 +1,6 @@
 # Vue.js Full Course – Fitness Tracking App
 
-This repository contains the source code for a **Vue.js full course project** where a modern fitness tracking application is built from scratch.
+This repository contains the source code for a **Vue.js full project** where a modern fitness tracking application is built from scratch.
 
 
 ## What I Learnt
